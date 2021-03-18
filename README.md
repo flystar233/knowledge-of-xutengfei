@@ -1,5 +1,6 @@
-- [群体遗传学](#-----)
-  * [比对](#--)
-  * [snp indel](#snp-indel)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+## 群体遗传学
+我以往的群体遗传学工作主要是挖掘一个群体中基因型和表型之间的关联，外面很多公司都在做这类的研究，所以很多资料、文献都可以很容易地查到。
+### 数据预处理
+数据预处理
+### 比对
+### snp indel
