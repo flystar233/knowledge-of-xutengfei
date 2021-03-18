@@ -1,8 +1,5 @@
-## 群体遗传学
+- [群体遗传学](#-----)
+  * [比对](#--)
+  * [snp indel](#snp-indel)
 
-[toc]
- 
- 数据预处理
-
-大时代打撒的打撒das
-### 比对
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
