@@ -161,7 +161,7 @@ bash run-asm-pipeline-post-review.sh --sort-output  -r test.review.assembly cont
 ## 软件
 ### linux
 1. `fzf` 模糊历史命令查询，你会回来感谢我的 https://github.com/junegunn/fzf
-2. `ack` 类似 gerp，但是更强大 https://github.com/samaaron/ack
+2. `ripgrep` 类似 gerp，但是更强大 https://github.com/BurntSushi/ripgrep
 3. `seqkit` fasta、fastq 文件处理 https://github.com/shenwei356/seqkit
 4. `csvtk` 结构数据文件处理 https://github.com/shenwei356/csvtk
 5. `miniconda3` 编程、生信软件安装 
