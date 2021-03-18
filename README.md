@@ -169,7 +169,7 @@ bash run-asm-pipeline-post-review.sh --sort-output  -r test.review.assembly cont
 1. `sublime text3` 文本编辑器
 2. `cmder` 更好的 cmd
 3. `Termius` ssh 连接集群（美观）
-4. `Visual Studio Code` 我一般用它方便dubug
+4. `Visual Studio Code` 我一般用它方便debug
 5. `moeditor` 写 markdown文档用
 6. `TED Notepad` 比自带的文档编辑器好用
 7. `pencil` 流程图制作
