@@ -85,7 +85,7 @@ https://flystar233.github.io/2020/05/20/annovar/
 1. `shasta`三代单装，几乎不用动参数
 2. `wengan` 二三代混装，准确性高
 3. `raven` 三代单装，contig长，自带两轮polish，由`racon`作者编写
-组装成 contig 之后需要使用`racon`进行2轮三代纠错，使用`pilon`进行2-3轮的二代数据纠错，最后使用`busco`进行组装评估。
+组装成 contig 之后需要使用`racon`进行2轮三代纠错，使用`pilon`进行2-3轮的二代数据纠错，最后使用`busco`进行组装评估。如果不进行hic组装的话，可以用`quickmerge`软件综合2种组装结果，提高contig水平。
 ### HIC组装
 #### 第一步
 hic-pro 处理原始hic数据，得到有效片段。（没有改动）
