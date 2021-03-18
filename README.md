@@ -112,10 +112,32 @@ bash run-asm-pipeline-post-review.sh --sort-output  -r test.review.assembly cont
 #### 脚本存放
 `/ldfssz1/MS_OP/USER/xutengfei1/script_py/hic_scr`
 
-`/zfssz3/NASCT_BACKUP/MS_PMO2017/xutengfei1/software/3d-dna_bin`
+`/zfssz3/NASCT_/MS_PMO2017/xutengfei1/software/3d-dna_bin`
 
 具体参考 `/ldfssz1/MS_OP/USER/xutengfei1/tangyu/new_HIC`
+## 编程
+建议直接学习 python ，抛弃perl这种魔幻语言，即使你不干生信了，python也很有用处。 linux 中 awk sed sort grep cut 命令要会灵活应用。学习 python 基础就不用说了，主要在几个方面要精通
 
-
-
-
+1. 写代码清晰的方法（def）
+2. 学着写类（class）
+3. 写灵活的命令行接口（click）
+4. 文件、路径操作（pathlib）
+5. 脑子里必须记得每个正则符号代表什么，灵活组合（re）
+6. 建议把常用软件的读取，写入，格式转换，自己都重写一次，感觉真的不一样
+7. 各种常用的数据处理包的使用（csv，pandas，scikit-learn，pyod，jellyfish，pyfastx）
+## 软件
+### linux
+1. `fzf` 模糊历史命令查询，你会回来感谢我的 https://github.com/junegunn/fzf
+2. `ack` 类似 gerp，但是更强大 https://github.com/samaaron/ack
+3. `seqkit` fasta、fastq 文件处理 https://github.com/shenwei356/seqkit
+4. `csvtk` 结构数据文件处理 https://github.com/shenwei356/csvtk
+5. `miniconda3` 编程、生信软件安装 
+### windows
+1. `sublime text3` 文本编辑器
+2. `cmder` 更好的 cmd
+3. `Termius` ssh 连接集群（美观）
+4. `Visual Studio Code` 我一般用它方便dubug
+5. `moeditor` 写 markdown文档用
+6. `TED Notepad` 比自带的文档编辑器好用
+7. `pencil` 流程图制作
+8. 多去 github **玩**
